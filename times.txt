@@ -1,0 +1,32 @@
+Binary Sort
+5 = .34
+10 = .35
+15 = .51
+20 = .49
+25 = .55
+
+Linear Sort
+5 = .54
+10 = .65
+15 = .59
+20 = .78
+25 = .82
+
+Selected Sort
+10 = .2
+15 = .2
+20 = .2
+30 = .25
+40 = .24
+50 = .31
+
+Quick Search
+Pretty much the same as selected sort
+Don't know if they supposed to be different 
+
+Merge Sort
+5 = .75
+10 = .76
+15 = .76
+20 = .86
+25 = .95
